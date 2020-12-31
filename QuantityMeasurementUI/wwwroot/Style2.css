@@ -1,0 +1,45 @@
+﻿body {
+}
+.converter-body {
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    background: aliceblue;
+}
+
+.converter-title {
+    text-align:center
+}
+input {
+    height:25px;
+}
+#input {
+    margin-left:25px;
+}
+#inputType{
+
+    width:170.66px;
+    margin-left:25px;
+    height:25px;
+    color:blueviolet
+    
+}
+
+#converterType {
+    width: 357px;
+    margin-left: 25px;
+    height: 25px;
+    color: blueviolet
+    
+}
+
+#resultType {
+    width: 169.66px;
+    margin-left: 13px;
+    height: 25px;
+    color: blueviolet
+}
+
+
